@@ -65,5 +65,4 @@ A web-based Dorm Management System developed using PHP and MySQL to manage dorms
 ## Note
 
 All files are located in the root directory (`dorm_management_system`).
-The project was uploaded by the team leader for submission purposes.
-Each module was assigned, implemented, and reviewed collaboratively by the team members.
+Each module implemented, and reviewed collaboratively by the team members.
